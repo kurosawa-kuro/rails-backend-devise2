@@ -32,10 +32,9 @@ client: Qa1zep_RGbvK2sU0cTHQAw
 
 ### Create a New Todo (Replace {{user_token}} and {{user_client}} with values from Sign In response)
 POST http://localhost:3000/todos
-Authorization: Bearer eyJhY2Nlc3MtdG9rZW4iOiJXbWhfSHI3MldhNDRCNTJUdWI5Y1J3IiwidG9rZW4tdHlwZSI6IkJlYXJlciIsImNsaWVudCI6IkhNM2hmejZUMExmR2FLM1Y2b3l0NXciLCJleHBpcnkiOiIxNjk2NDA0NjE1IiwidWlkIjoidGVzdEBleGFtcGxlLmNvbSJ9
+Authorization: Bearer eyJhY2Nlc3MtdG9rZW4iOiJQWXdEbk5DSmtLSnZ3T3VPMTlUbTRnIiwidG9rZW4tdHlwZSI6IkJlYXJlciIsImNsaWVudCI6IkZxMzdQXzZER3ZpMG9faFpRaTlIZnciLCJleHBpcnkiOiIxNjk2NDA4Njk1IiwidWlkIjoidGVzdEBleGFtcGxlLmNvbSJ9
 uid: test@example.com
-client: HM3hfz6T0LfGaK3V6oyt5w
-expiry: 1696404615
+client: Fq37P_6DGvi0o_hZQi9Hfw
 Content-Type: application/json
 
 {
