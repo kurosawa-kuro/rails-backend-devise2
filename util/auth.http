@@ -22,10 +22,10 @@ Content-Type: application/json
 
 ### List Todos (Replace {{user_token}} and {{user_client}} with values from Sign In response)
 GET http://localhost:3000/todos
-Authorization: Bearer eyJhY2Nlc3MtdG9rZW4iOiJXbWhfSHI3MldhNDRCNTJUdWI5Y1J3IiwidG9rZW4tdHlwZSI6IkJlYXJlciIsImNsaWVudCI6IkhNM2hmejZUMExmR2FLM1Y2b3l0NXciLCJleHBpcnkiOiIxNjk2NDA0NjE1IiwidWlkIjoidGVzdEBleGFtcGxlLmNvbSJ9
+Authorization: Bearer eyJhY2Nlc3MtdG9rZW4iOiJqenZMcHZVbDVEN2FaWjZETGV6QXR3IiwidG9rZW4tdHlwZSI6IkJlYXJlciIsImNsaWVudCI6IlFhMXplcF9SR2J2SzJzVTBjVEhRQXciLCJleHBpcnkiOiIxNjk2NDA4NDI5IiwidWlkIjoidGVzdEBleGFtcGxlLmNvbSJ9
 uid: test@example.com
-client: HM3hfz6T0LfGaK3V6oyt5w
-expiry: 1696404615
+client: Qa1zep_RGbvK2sU0cTHQAw
+# expiry: 1696408295
 
 
 ###
